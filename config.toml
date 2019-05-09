@@ -1,7 +1,20 @@
-baseURL = "http://example.org/"
+baseURL = "https://vibhasgoyal.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Vigo's Blog"
 theme = "hyde"
+paginate = 5
+
+enableEmoji = true
+
+
+
+    hidden = "true"
+
+# sectionPagesMenu = "main"
+
+[params]
+  description = "Build the future. Technology, Business, Design and Psychology "
+
 
 [[params.social]]
   name = "github"

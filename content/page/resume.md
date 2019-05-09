@@ -1,8 +1,7 @@
 ---
 title: "Resume"
-date: 2018-03-17T20:25:03+05:30
+date: 2016-03-17T20:25:03+05:30
 menu: main
-weight: -50
 comments: false
 ---
 

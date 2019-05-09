@@ -1,9 +1,8 @@
 ---
 title: "My Twitter Profile"
 linktitle: "My Tweets"
-date: 2018-03-19T17:17:05+05:30
+date: 2016-03-19T17:17:05+05:30
 menu: main
-weight: 0
 slug: twitter-feed
 comments: false
 ---
