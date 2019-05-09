@@ -1,0 +1,15 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "hyde"
+
+[[params.social]]
+  name = "github"
+  url = "https://github.com/vibhas77"
+
+  [params.style]
+     darkestColor = "#315659"
+     darkColor = "#253031"
+     primaryColor = "#0f3b3e"
+     lightColor = "#97e3a1"
+     lightestColor = "#fff"
