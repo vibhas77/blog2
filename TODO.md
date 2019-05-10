@@ -6,7 +6,7 @@ Add my photo to the Sidebar
 
 Add the twitter follow button on the sidebar
 
-Link the /public to the vibhas77.github.io repo.
+Link the /public to the vibhas77.github.io repo. Also add a deploy script.
 
 Add Share Buttons for each posts.
 
