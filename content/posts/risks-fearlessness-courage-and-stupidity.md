@@ -3,7 +3,7 @@ title: "Fearlessness, Risk, Courage and Stupidity"
 date: 2019-05-18T03:16:59+05:30
 ---
 
-# On Risks
+## On Risks
 
 Risk is much different from stupidity.
 
@@ -21,7 +21,7 @@ Courage is very different from stupidity.
 
 Courage may not be easy at first but if you time it right. It can mean a lot.
 
-I just got reminded of this when Ih hard the sound of a motorcycle speeding through the road. It reminded me of the time when I had go carted and when I was in the 4x4 drive.
+I just got reminded of this when I heard the sound of a motorcycle speeding through the road. It reminded me of the time when I had go-karted and when I was in the 4x4 drive.
 
 It truly reminds me of power.
 
