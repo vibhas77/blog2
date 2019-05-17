@@ -18,4 +18,6 @@ Improve the navigation ( use tags , categories , submenus )
 
 Link the images
 
-Add Favicon
+Show Recent posts.
+
+Build a site navigator page.

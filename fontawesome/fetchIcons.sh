@@ -1,6 +1,6 @@
 #!/bin/sh
 set -ex
-icons="twitter github"
+icons="twitter github angellist"
 
 
 url=https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands
