@@ -20,3 +20,9 @@ Build a site navigator page.
 Newsletter / Subscribe optional
 
 Update resume.
+
+Cover image for posts.
+
+ADd Disqus.
+
+Collect Feedback.

@@ -3,7 +3,7 @@ title: "Joe Rogan on AI With Lex Fridman"
 date: 2019-05-10T05:43:13+05:30
 ---
 
-I has been a while since I have got myself engaged into a podcast this heavy and deep. At the end of it, I was not able to believe myself that I just saw a 3 hour video with my whole mind engaged into it throughout the thing.
+I has been a while since I have got myself engaged into a podcast this heavy and deep and especially relevant to me. At the end of it, I was not able to believe myself that I just saw a 3 hour video with my whole mind engaged into it throughout the thing.
 
 The discussion here has been really awesome and mind opening.
 
