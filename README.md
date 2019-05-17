@@ -14,6 +14,8 @@ There is a Install script. ( In progress )
 
 There is a Deployment script. deployer.sh
 
+`./deployer.sh new-article`
+
 # Font-awesome
 
 There is a script to fetch the font-awesome icons.
