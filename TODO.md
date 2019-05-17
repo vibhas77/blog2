@@ -1,12 +1,7 @@
 --
-
-Icons for Instagram, Twitter, AngelList at the end. Near the github icon And Medium
-
 Add my photo to the Sidebar
 
 Add the twitter follow button on the sidebar
-
-Link the /public to the vibhas77.github.io repo. Also add a deploy script.
 
 Add Share Buttons for each posts.
 
@@ -21,3 +16,7 @@ Link the images
 Show Recent posts.
 
 Build a site navigator page.
+
+Newsletter / Subscribe optional
+
+Update resume.
