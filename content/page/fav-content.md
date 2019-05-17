@@ -14,7 +14,7 @@ In a way this is my personal awesome list of internet content creators ( List no
 
 ## Philosophy / Psychology
 
-1. [Jordan B Peterson](https://www.youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q) & [website](//jordanbpeterson.com)
+1. Jordan B Peterson ([YT Channel](https://www.youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q) & [Website](//jordanbpeterson.com))
 3. [The Rational Male](//therationalmale.com)
 4. [Illimitable Men](//illimitable.men)
 5. [Farnam Street Blog](//fs.blog)
@@ -26,15 +26,15 @@ In a way this is my personal awesome list of internet content creators ( List no
 ## Entrepreneurship
 
 1. [Valutainment](https://www.youtube.com/user/patrickbetdavid) & [Patrick Bet David](//patrickbetdavid.com)
-2. [Gary Vee]
-3. WallStreetPlayboys
-4. Budgets are sexy
-5. [Stanford Graduate School of Business](https://www.youtube.com/channel/UCGwuxdEeCf0TIA2RbPOj-8g)
+2. WallStreetPlayboys
 
 ## Technology
 
 1. [MKBHD](https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ)
 2. Linus Tech Tips
+3. Dave2D
+4. Google Developers Youtube
+5. Hacker News
 
 ## Health
 

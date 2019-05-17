@@ -3,13 +3,14 @@ Add my photo to the Sidebar
 
 Add the twitter follow button on the sidebar
 
-Add Share Buttons for each posts.
+Add Share Buttons for each posts. Near where we have the date and time for the post
 
 Remove the extra pages showing up in the home pages
 
 Paginate the posts.
 
 Improve the navigation ( use tags , categories , submenus )
+Have an advanced navigator page which is available on the side where people can search, sort, categorise, view tag  cloud, view recent posts all from that page.
 
 Link the images
 
@@ -26,3 +27,7 @@ Cover image for posts.
 ADd Disqus.
 
 Collect Feedback.
+
+Google Analytics Tracking
+
+A PAge for all my posts.
