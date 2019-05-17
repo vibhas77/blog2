@@ -1,11 +1,15 @@
+# Todos
+
+Check TODO.md
+
 
 # Install
 
-There is a Install script.
+There is a Install script. ( In progress )
 
 # Deployment
 
-There is a Deployment script.
+There is a Deployment script. deployer.sh
 
 # Font-awesome
 
