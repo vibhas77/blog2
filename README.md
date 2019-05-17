@@ -2,7 +2,7 @@
 
 Check TODO.md
 
-# upcoming posts
+# Upcoming Posts
 
 Check Upcoming.md
 
