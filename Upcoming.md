@@ -25,3 +25,7 @@ Social media, on why people are more interested in recording a negative instance
 Meaning in life
 
 Listener vs Reader
+
+Virtual Assistants.
+
+Tech Review : Google Home Mini

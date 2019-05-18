@@ -33,3 +33,5 @@ Google Analytics Tracking
 A PAge for all my posts.
 
 Improve the UI for lists such as on http://localhost:1313/books-club/
+
+ADd Patreon ?
