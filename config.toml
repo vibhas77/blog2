@@ -5,7 +5,7 @@ theme = "hyde"
 paginate = 5
 
 enableEmoji = true
-
+googleAnalytics = "UA-64881400-2"
 
 
     hidden = "true"
@@ -14,7 +14,7 @@ enableEmoji = true
 
 [params]
   description = "Build the future. Technology, Business, Design and Psychology "
-
+  addThis = "ra-50594cfb1c07b16f"
 
 [[params.social]]
   name = "github"
