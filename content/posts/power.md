@@ -2,10 +2,9 @@
 title: "Power"
 date: 2019-05-18T14:00:50+05:30
 draft : true
+cover: /images/mind.jpg
+
 ---
-
-[Image -- Buddha Meditating] [ Strong men shadow ]
-
 Power is the most precious form of energy. A place where it means it all. Respect, Pride, Intelligence, Wisdom, Influence Wealth, Work, Time, Health, Energy. Almost everything ( 99.9999 % ) of what we humans do is associated with it in one way or another.
 
 Indeed it is a tool of gods. The one that we all worship.
