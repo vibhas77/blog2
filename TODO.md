@@ -3,8 +3,6 @@ Add my photo to the Sidebar
 
 Add the twitter follow button on the sidebar
 
-Add Share Buttons for each posts. Near where we have the date and time for the post
-
 Remove the extra pages showing up in the home pages
 
 Paginate the posts.
@@ -27,8 +25,6 @@ Cover image for posts.
 ADd Disqus.
 
 Collect Feedback.
-
-Google Analytics Tracking
 
 A PAge for all my posts.
 

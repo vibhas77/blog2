@@ -6,7 +6,7 @@ paginate = 5
 
 enableEmoji = true
 googleAnalytics = "UA-64881400-2"
-
+disqusShortname = "vibhasgoyal"
 
     hidden = "true"
 
