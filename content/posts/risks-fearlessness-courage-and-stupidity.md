@@ -1,6 +1,8 @@
 ---
 title: "Fearlessness, Risk, Courage and Stupidity"
 date: 2019-05-18T03:16:59+05:30
+cover: /images/hercules.jpg
+
 ---
 
 ## On Risks
