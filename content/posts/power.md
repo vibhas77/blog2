@@ -18,7 +18,7 @@ Without power, people are depressed. And for a very good reason.
 
 I am a very deep believer of this philosophy. And I do not know of a single instance in my whole life when it was not true for me.
 
-Even if someone acquires power (exterior to self from an a central soul point of view) by pure chance without having the capacity to handle it, it is quickly bound to fade away from him. People lose credibility to hold that power if they do not prove themselves capable of handling that power within a generally accepted time frame for that particular level of power.
+Even if someone acquires power (exterior from a central soul point of view) by pure chance without having the capacity to handle it, it is quickly bound to fade away from him. People lose credibility to hold that power if they do not prove themselves capable of handling that power within a generally accepted time frame for that particular level of power.
 
 This is one of my most core rule, principle. I am orthodox when it comes to this. I have many times simply refused to acknowledge what others feel about this when they haven't done the due diligence of knowing and experiencing it.
 
@@ -40,7 +40,10 @@ Happiness is based on the presence of personal power. ( Power not just on others
 
 - OH! People love to show off!!!!
 
+( Currently in notebook)
 
+
+Mention that it has been very well addressed in 48 Laws of Power
 
 # In Conclusion Here
 
@@ -55,3 +58,9 @@ Happiness is based on the presence of personal power. ( Power not just on others
 > **Don't be naive.**
 
 ## Recommeded Further Reading / Listening
+
+Michael Franzese  and PBD
+
+The prince
+
+Laws of Power

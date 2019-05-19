@@ -5,6 +5,7 @@ cover: /images/hungertorrent.png
 tags:
   - startup
 ---
+![HungerTorrent Cover](/images/hungertorrent.png)
 <h2>Introduction to HungerTorrent</h2>
 HungerTorrent is a social food delivery system for easy delivery especially in remote areas operating at IIT Hyderabad.
 
