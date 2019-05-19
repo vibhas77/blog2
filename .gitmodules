@@ -4,3 +4,6 @@
 [submodule "public"]
 	path = public
 	url = git@github.com:vibhas77/vibhas77.github.io.git
+[submodule "themes/minimo"]
+	path = themes/minimo
+	url = https://github.com/MunifTanjim/minimo
